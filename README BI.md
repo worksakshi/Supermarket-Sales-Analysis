@@ -2,19 +2,6 @@
 
 ![](https://github.com/worksakshi/Supermarket-Sales-Analysis/blob/main/Excel-%20SuperMarket%20Sales%20Analysis.PNG)
 
-### **Light and Dark Executive Dashboard**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
-
-### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
-
-### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
-
-### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
-
----
 
 ## **Objective**  
 Create an interactive, user-friendly dashboard for XGRIP, a company specializing in mobile phone accessories. The dashboard integrates multi-source data, standardizes currencies, and provides detailed insights into sales, profits, product performance, and returns. It aims to streamline data analysis, helping stakeholders make informed business decisions.
