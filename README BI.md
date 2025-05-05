@@ -1,6 +1,6 @@
-# **XGRIP Sales and Profit Analytics Dashboard**
+# **SuperMarket Sales Analysis**
 
-![](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/img1.png)
+![](https://github.com/worksakshi/Supermarket-Sales-Analysis/blob/main/Excel-%20SuperMarket%20Sales%20Analysis.PNG)
 
 ### **Light and Dark Executive Dashboard**  
 ![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
